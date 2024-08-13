@@ -1,0 +1,62 @@
+
+h2{
+    color: #0F8499;
+    margin:auto ;
+    padding: 18px;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 25px;
+
+}
+
+/* reset.css */
+/* Eliminamos márgenes y rellenos por defecto */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* DISEÑAMOS LA PAGINA REGISTRO */
+
+.formulario-registro{
+
+    color: azure;
+    margin: auto;
+    width: 500px;
+    background-color: #0F8499;;
+    padding: 30px;
+    margin-top: 42px;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+.controles{
+
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 6px;
+
+}
+
+.grupo{
+
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+
+}
+
+.radio{
+
+    margin-bottom: 8px;
+    margin-left: 12px;
+}
+
+.boton{
+
+    width: 120px;
+    padding: 8px;
+    margin-top: 10px;
+}
